@@ -51,7 +51,7 @@ java App
 ## Video Demo
 
 📺 Watch the demo video here:  
-[https://youtu.be/your-video-link](https://youtu.be/your-video-link)
+https://youtu.be/CH9cSPAUF5I?feature=shared
 
 > This short video demonstrates the calculator's full functionality, memory features, exception handling, and clean structure.
 
