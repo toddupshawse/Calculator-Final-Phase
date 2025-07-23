@@ -67,7 +67,7 @@ https://youtu.be/CH9cSPAUF5I?feature=shared
 **Todd Maurice Upshaw**  
 Dean’s List – ECPI University  
 Email: toddupshawse@gmail.com  
-GitHub: [https://github.com/yourusername](https://github.com/yourusername)
+GitHub: https://github.com/toddupshawse/Calculator-Final-Phase.git
 
 ## License
 
